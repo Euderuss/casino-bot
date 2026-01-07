@@ -36,7 +36,4 @@
 
 ## Установка
 
-1. Клонировать репозиторий:
-```bash
-git clone https://github.com/your-repo/casino-bot.git
-cd casino-bot
+
